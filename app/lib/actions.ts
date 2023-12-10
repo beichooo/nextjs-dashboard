@@ -76,7 +76,7 @@ const CreateInvoice = FormSchema.omit({ id: true, date: true });
 //   const amountInCents = amount * 100;
 //   const date = new Date().toISOString().split('T')[0];
 
-//   if (!validatedFields.sucess) {
+//   if (!validatedFields.success) {
 
 //   }
 
